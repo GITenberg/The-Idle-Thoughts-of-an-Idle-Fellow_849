@@ -1,0 +1,45 @@
+_repo: The-Idle-Thoughts-of-an-Idle-Fellow_849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jerome, Jerome K. (Jerome Klapka)
+    alias: Jerome, Jerome Klapka
+    birthdate: 1859
+    deathdate: 1927
+    gutenberg_agent_id: '173'
+    url: http://www.gutenberg.org/2009/agents/173
+    wikipedia: http://en.wikipedia.org/wiki/Jerome_K._Jerome
+description: "Idle Thoughts of an Idle Fellow, published in 1886, is a collection\
+  \ of humorous essays by Jerome K. Jerome. It was the author’s second published book\
+  \ and it helped establish him as a leading English humorist. While widely considered\
+  \ one of Jerome’s better works, and in spite of using the same style as Three Men\
+  \ in a Boat, it was never as popular as the latter. A second \"Idle Thoughts\" book,\
+  \ The Second Thoughts of An Idle Fellow, was published in 1898.\nThe essays had\
+  \ previously appeared in Home Chimes, the same magazine that later serialised Jerome's\
+  \ Three Men in a Boat.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '849'
+  wikidata: Q997511
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wit and humor'
+- !lcsh 'Essays'
+- GITenberg
+tableOfContents: Preface -- On being idle -- On being in love -- On being in the blues
+  -- On being hard up -- On vanity and vanities -- On getting on in the world -- On
+  the weather -- On cats and dogs -- On being shy -- On babies -- On eating and drinking
+  -- On furnished apartments -- On dress and deportment -- On memory.
+title: The Idle Thoughts of an Idle Fellow
+url: http://www.gutenberg.org/ebooks/849
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B6%D0%BA%D0%B0_%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D1%8B%D1%85_%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%B9_%D0%BF%D1%80%D0%B0%D0%B7%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0
+- https://en.wikipedia.org/wiki/Idle_Thoughts_of_an_Idle_Fellow
+- https://zh.wikipedia.org/wiki/%E6%87%B6%E4%BA%BA%E6%87%B6%E8%BE%A6%E6%B3%95
+- https://it.wikipedia.org/wiki/I_pensieri_oziosi_di_un_ozioso
+- https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B7%D0%BD%D0%B8_%D0%BC%D0%B8%D1%81%D0%BB%D0%B8_%D0%BD%D0%B0_%D0%B5%D0%B4%D0%B5%D0%BD_%D0%BC%D1%80%D0%B7%D0%BB%D0%B8%D0%B2%D0%B5%D1%86
