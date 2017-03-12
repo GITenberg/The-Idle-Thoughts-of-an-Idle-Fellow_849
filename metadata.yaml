@@ -1,5 +1,8 @@
 _repo: The-Idle-Thoughts-of-an-Idle-Fellow_849
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jerome, Jerome K. (Jerome Klapka)
@@ -17,6 +20,8 @@ description: "Idle Thoughts of an Idle Fellow, published in 1886, is a collectio
   \ The Second Thoughts of An Idle Fellow, was published in 1898.\nThe essays had\
   \ previously appeared in Home Chimes, the same magazine that later serialised Jerome's\
   \ Three Men in a Boat.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/849#The-Idle-Thoughts-of-an-Idle-Fellow
 gutenberg_issued: '1997-03-01'
 gutenberg_type: Text
 identifiers:
